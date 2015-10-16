@@ -1,0 +1,1 @@
+Manipulate tickets in Redmine via rbot
